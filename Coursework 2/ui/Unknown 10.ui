@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>403</width>
+    <height>397</height>
+   </rect>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="urnContainer" native="true">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>100</y>
+     <width>200</width>
+     <height>200</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-style: solid;
+border-width: 0px 5px 5px 5px; /* top right bottom left */
+border-color: black;</string>
+   </property>
+   <widget class="QLabel" name="ballLabel9">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>160</y>
+      <width>40</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black; border-radius: 20px; border: 1.5px solid white;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ballLabel8">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>130</y>
+      <width>40</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black; border-radius: 20px; border: 1.5px solid white;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ballLabel7">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>160</y>
+      <width>40</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black; border-radius: 20px; border: 1.5px solid white;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ballLabel6">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>130</y>
+      <width>40</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black; border-radius: 20px; border: 1.5px solid white;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ballLabel5">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>160</y>
+      <width>40</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black; border-radius: 20px; border: 1.5px solid white;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ballLabel4">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>100</y>
+      <width>40</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black; border-radius: 20px; border: 1.5px solid white;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ballLabel2">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>130</y>
+      <width>40</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black; border-radius: 20px; border: 1.5px solid white;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ballLabel0">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>160</y>
+      <width>40</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black; border-radius: 20px; border: 1.5px solid white;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ballLabel1">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>130</y>
+      <width>40</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black; border-radius: 20px; border: 1.5px solid white;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ballLabel3">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>160</y>
+      <width>40</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black; border-radius: 20px; border: 1.5px solid white;</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,13 @@
+You have been given a chance to win 30 GBP!
+
+You have been randomly given one of 3 urn sizes: 2, 10 and 100 balls.
+A ball will be randomly drawn from one of the two urns displayed below.
+
+If a blue ball is drawn, you will be entered into the 30GBP lottery! If a red ball is drawn, you lose.
+One of the urns contains balls with an unknown distribution of red and blue (indicated as black balls).
+This can range from 100 red and 0 blues to 0 reds and 100 blues.
+The other urn has a 50:50 distribution of red and blue balls.
+
+Note: The mixture of red and blue balls in the unknown urn has been randomly generated and every possible combination is equally likely.
+
+Please click on the urn for where you would like the ball to be drawn from.

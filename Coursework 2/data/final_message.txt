@@ -1,0 +1,8 @@
+Thank you for participating in our experiment investigating ambiguity aversion. 
+
+You were asked to choose between drawing a ball from two urns, one with a known 50:50 distribution of red and blue balls and one with an unknown distribution of the two colours.
+The size of the urns were randomly chosen between a selection of 2, 10, and 100 balls in an urn.
+The aim of the study was to understand how individuals react to risk & uncertainty during decision-making processes and whether this is affected by sample size (urn size).
+
+Please press the exit button to exit the experiment.
+
